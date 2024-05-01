@@ -1,6 +1,6 @@
 module github.com/nikunjy/rules
 
-go 1.21
+go 1.19
 
 require (
 	github.com/antlr4-go/antlr/v4 v4.13.0
